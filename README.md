@@ -13,7 +13,7 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 
 # References
 The dataset used : 
-- apliter from Browser
+- spliter from Browser
 - bs4 from beautiful Soup
 - Matpltlib
 - pandas
@@ -23,15 +23,10 @@ Dataset:
          
 # Code
 Source Code stored in this repo (https://github.com/riosrose/Mars_Scraping . 
-**xxx : xxxxxxxxxxxxxxxx
-         This file contains the xxxxxxxxxxx. It includes xxxxxxxxxxxxxxxxxxxxx.
-**xxxx: xxxxxxxxxxxxxxx
-          The xxxx file is used to xxxxxxxxxxxxxxxx.
-**xxx : xxxxxxxxxxxxxxxx
-         This file contains the xxxxxxxxxxx. It includes xxxxxxxxxxxxxxxxxxxxx.
-**xxxx: xxxxxxxxxxxxxxx
+**data : mars_temp_.csv
+**images : screen shots of visuals          
+**part_1_mars_news.ipynb : Assignment notebook #1
+**part_1_mars_weather.ipynb: Assignment notebook #2
 # Resources.. 
-         utilized for support with debugging, clarifications of code : Xpert Learning, AskABC Learning assistant(Robert & Nick), a tutoring session ( Angel) and Gemini AI where needed. 
-
-# Data sourced from : 
+         utilized for support with debugging, clarifications of code : Xpert Learning , Stack Overflow and module 11 in class assignments. 
 
